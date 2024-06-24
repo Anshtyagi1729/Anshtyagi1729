@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Anshtyagi1729
-- 👀 I’m interested in solving problems creatively and working on intuitive projects
-- 🌱 I’m currently learning c/c++ and data structures in the said languages
-- 💞️ I’m looking to collaborate on a project that is usefull and creative involving c/c++ or some other language as am flexible to learn
+- 🌱 I work on html/css, vanilla js ,c/c+ and python for machine learning projects
+- 💞️ I am looking to collaborate on a project involving machine learning or web development 
 - 📫 How to reach me- anshtyagi314159@gmail.com is my official email id where you can reach me anytime
-- 
+
 
 
 <!---
