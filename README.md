@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anshtyagi1729
-- 🌱 I work on html/css, vanilla js ,c/c+ and python for machine learning projects
+- 👋 Hi, I’m AnshTyagi
+- 🌱 I can work on c/c++ ,js,html,css for webdev and also python for machine learning projects
 - 💞️ I am looking to collaborate on a project involving machine learning or web development 
 - 📫 How to reach me- anshtyagi314159@gmail.com is my official email id where you can reach me anytime
 
