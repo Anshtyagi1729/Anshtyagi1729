@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AnshTyagi
--  I can work on c/c++ ,js,html,css for webdev and also python for machine learning projects
--  I am looking to collaborate on a project involving machine learning or web development 
-- 📫 How to reach me- anshtyagi314159@gmail.com is my official email id where you can reach me anytime
+-  I like to train deep Neural Networks 
+-  I am looking to collaborate on a project involving deep learning or genAI
+- 📫 How to reach me- anshtyagi314159@gmail.com 
 
 
 
