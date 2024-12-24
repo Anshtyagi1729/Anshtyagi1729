@@ -1,7 +1,4 @@
-- 👋 Hi, I’m AnshTyagi
--  I like to train deep Neural Networks 
--  I am looking to collaborate on a project involving deep learning or genAI
-- 📫 How to reach me- anshtyagi314159@gmail.com 
+Hi, I’m Ansh Tyagi – a computer science student passionate about deep learning and AI. I love working on creative, innovative projects, especially those involving AI. Feel free to reach me at anshtyagi314159@gmail.com.
 
 
 
